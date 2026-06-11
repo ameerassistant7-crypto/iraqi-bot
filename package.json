@@ -1,0 +1,17 @@
+{
+  "name": "iraqi-sales-bot",
+  "version": "1.0.0",
+  "description": "Iraqi Arabic dialect sales bot for WhatsApp/Meta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "googleapis": "^140.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
